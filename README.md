@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NoorMhd7
+- 👋 Hi, I’m Noor
 - 👀 I’m interested in, developing software
 - 🌱 I’m currently a second year student in University of Leeds
 
