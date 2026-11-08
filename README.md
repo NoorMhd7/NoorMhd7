@@ -3,7 +3,6 @@
 <p align="left">
 Final-year Computer Science student at the <b>University of Leeds</b>, graduating July 2027.<br/>
 Just wrapped a year as a software developer at <b>HMRC</b>, shipping Scala microservices for UK digital tax services.<br/>
-Currently looking for <b>graduate software engineering roles</b> starting 2027.
 </p>
 
 <p align="left">
