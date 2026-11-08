@@ -1,8 +1,40 @@
-- 👋 Hi, I’m Noor
-- 👀 I’m interested in, developing software
-- 🌱 I’m currently a second year student in University of Leeds
+<h1 align="left">Hey, I'm Noor 👋</h1>
 
-<!---
-NoorMhd7/NoorMhd7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left">
+Final-year Computer Science student at the <b>University of Leeds</b>, graduating July 2027.<br/>
+Just wrapped a year as a software developer at <b>HMRC</b>, shipping Scala microservices for UK digital tax services.<br/>
+Currently looking for <b>graduate software engineering roles</b> starting 2027.
+</p>
+
+<p align="left">
+  <a href="https://mhd-noor.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0b6e6e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-noor-177a23290/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mhdn.cs@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+### 🛠️ What I'm up to
+
+- 💼 Spent 2025–26 at **HMRC** building and running microservices on MDTP (Scala, Play, ScalaTest)
+- ⚽ Latest project: **Optimal XI**, an FPL squad optimiser using ML + integer programming (Python, FastAPI, React)
+- 🌱 Getting deeper into applied ML and medical imaging
+
+### 🧰 Tech I use
+
+**Languages**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=scala,java,py,cs,c,js,ts,html,css&perline=9" alt="Languages"/>
+</p>
+
+**Frameworks, tools and cloud**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,sklearn,prisma,postgres,sqlite,unity,git,github,vercel,azure,linux&perline=14" alt="Tools"/>
+</p>
+
+### 📊 GitHub stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NoorMhd7&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0b6e6e&icon_color=0b6e6e&text_color=7d8b93" alt="Noor's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoorMhd7&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0b6e6e&text_color=7d8b93" alt="Top languages"/>
+</p>
