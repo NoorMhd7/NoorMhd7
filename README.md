@@ -31,10 +31,3 @@ Currently looking for <b>graduate software engineering roles</b> starting 2027.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,sklearn,prisma,postgres,sqlite,unity,git,github,vercel,azure,linux&perline=14" alt="Tools"/>
 </p>
-
-### 📊 GitHub stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NoorMhd7&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0b6e6e&icon_color=0b6e6e&text_color=7d8b93" alt="Noor's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoorMhd7&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0b6e6e&text_color=7d8b93" alt="Top languages"/>
-</p>
